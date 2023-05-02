@@ -1,7 +1,6 @@
 # PyTools
 PyTools is a collection of useful Python scripts that can be used for a variety of purposes. It includes a refresh rate checker, dead pixel checker, and webcam checker.
 
-## Please only use the launcher.py, the .py files in the functions folder are JUST FOR TROUBLESHOOTING or adding functions yourself!
 
 # Installation
 To install PyTools, you'll need to have Python 3 installed on your machine. You can download the latest version of Python 3 from the official Python website: https://www.python.org/downloads/
